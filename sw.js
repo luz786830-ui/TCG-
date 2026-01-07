@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tcg-forge-v1';
+const CACHE_NAME = 'tcg-forge-v2';
 const assets = [
   './',
   './index.html',
